@@ -1,0 +1,6 @@
+{
+  "name": "Gemma Study",
+  "description": "100% offline, distraction-free study companion powered by on-device Gemma with Socratic and demonstration modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

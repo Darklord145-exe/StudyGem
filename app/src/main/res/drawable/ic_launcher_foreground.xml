@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center neural study companion icon (66dp safe zone within 108dp) -->
+    <!-- Open Book Left Page -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M 52,44 C 44,40 34,40 28,42 L 28,72 C 34,70 44,70 52,74 Z" />
+    <!-- Open Book Right Page -->
+    <path
+        android:fillColor="#00FFA3"
+        android:pathData="M 56,44 C 64,40 74,40 80,42 L 80,72 C 74,70 64,70 56,74 Z" />
+    <!-- Glowing AI Star / Spark in Center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,26 L 56.5,33 L 63.5,35.5 L 56.5,38 L 54,45 L 51.5,38 L 44.5,35.5 L 51.5,33 Z" />
+</vector>
